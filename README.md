@@ -2,7 +2,7 @@
 *This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.*
 
 ## Live version
-Check a live version of this repo at [davidgimeno.cat](http://davidgimeno.cat/) or the same github pages at [https://daliife.github.io/dgm-website-angular/](https://daliife.github.io/dgm-website-angular/)
+Check a live version 
 
 ## Development commands
 * Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
