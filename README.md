@@ -8,18 +8,3 @@ Check a live version of this repo at [davidgimeno.cat](http://davidgimeno.cat/) 
 * Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 * Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Used APIs
-* [Materialize css](https://materializecss.com/)
-* [Animate.css](https://daneden.github.io/animate.css/)
-
-## Screenshots
-
-### Version 1
-![Homepage](https://imgur.com/F3ybH7M.png)
-
-![About](https://imgur.com/zOEBsbl.png)
-
-![Projects](https://imgur.com/ttXO415.png)
-
-![Contact](https://imgur.com/X3ypA3Q.png)
