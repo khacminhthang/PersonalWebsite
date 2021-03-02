@@ -1,0 +1,56 @@
+.left-align-text {
+  text-align: left;
+}
+.collapsible {
+  background-color: var(--color-pure-white);
+  border: 0px solid var(--color-primary) !important;
+}
+.collapsible-body {
+  border-bottom: none;
+  background: var(--color-secondary);
+}
+.collapsible-header {
+  background-color: var(--color-secondary);
+  transition: all 150ms ease-in-out;
+  border-top: 4px solid white !important;
+  border-bottom: 0px solid white !important;
+}
+.collapsible-header:hover {
+  background-color: rgba(2, 119, 189, 0.15);
+  transition: all 150ms ease-in-out;
+}
+td a {
+  text-decoration: none;
+}
+td a:hover {
+  text-decoration: underline;
+}
+.container .row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  margin-bottom: 0;
+}
+#description {
+  margin-bottom: 0px !important;
+}
+#downloadButton:hover {
+  transform: translate(0.75rem, 0.75rem);
+}
+#downloadButton {
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+  border-radius: 0px;
+  transition: transform 150ms ease-in-out !important;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.card-link {
+  background-color: var(--color-primary) !important;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+}
+.profile-img {
+  margin-bottom: 2rem;
+}
